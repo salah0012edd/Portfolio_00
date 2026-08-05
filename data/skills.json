@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Programming Languages",
+    "items": [
+      { "name": "JavaScript", "level": "Advanced", "icon": "devicon-javascript-plain colored" },
+      { "name": "Python", "level": "Advanced", "icon": "devicon-python-plain colored" },
+      { "name": "HTML", "level": "Advanced", "icon": "devicon-html5-plain colored" },
+      { "name": "CSS", "level": "Advanced", "icon": "devicon-css3-plain colored" }
+    ]
+  },
+  {
+    "category": "Databases & Framework",
+    "items": [
+      { "name": "SQLITE3", "level": "Advanced", "icon": "devicon-sqlite-plain-wordmark" },
+      { "name": "Flask", "level": "Intermediate", "icon": "devicon-flask-original-wordmark" }
+    ]
+  },
+  {
+    "category": "DevOps & Tools",
+    "items": [
+      { "name": "Vs Code", "level": "Advanced", "icon": "devicon-vscode-plain colored" },
+      { "name": "Git", "level": "Advanced", "icon": "devicon-git-plain colored" }
+      
+    ]
+  }
+
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "1",
+    "title": "CSS-first-project",
+    "description": "This project marks my first experience using CSS to style a webpage. While I have worked on web development projects before, this is the first time I focused on applying CSS for design and layout.",
+    "image": "assets/images/CSS-first-project.png",
+    "githubUrl": "https://github.com/salah0012edd/CSS-first-project",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://salah0012edd.github.io/CSS-first-project/",
+    "tags": [
+      "Web",
+      "Design"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "html-portfolio",
+    "description": "This is a simple portfolio website created using HTML. It showcases a basic structure and design.",
+    "image": "assets/images/html-porfolio.png",
+    "githubUrl": "https://github.com/salah0012edd/html-portfolio",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://salah0012edd.github.io/html-portfolio/",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Questionnaire-0.0",
+    "description": "A simple and responsive questionnaire built with HTML and CSS. It features well-styled input fields, a clean layout, and an easy-to-use design for smooth user interaction. 🚀",
+    "image": "assets/images/Questionner.png",
+    "githubUrl": "https://github.com/salah0012edd/Questionnaire-",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://salah0012edd.github.io/Questionnaire-/",
+    "tags": [
+      "Web",
+      "Full-Stack"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "To-Do-app",
+    "description": "A lightweight web application built with Python's Flask framework and SQLite3 database engine. This modern web solution features secure user authentication, dynamic routing, and CRUD (Create, Read, Update, Delete) operations for efficient data management. The app utilizes Jinja2 templating for dynamic HTML content.",
+    "image": "assets/images/To-do.png",
+    "githubUrl": "https://github.com/salah0012edd/To-Do-app",
+    "liveDemoAvailable": false,
+    "liveDemoUrl": "###############",
+    "tags": [
+      "Web",
+      "Full-Stack"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Workout-tracker",
+    "description": "As a fitness enthusiast, I know how important structured workout and meal planning is for progress. That’s why I built this Workout & Meal Planner—a simple yet effective web app to track workouts and meals effortlessly! Developed using Python, HTML, and CSS, this is the first version, and I plan to enhance it with more features over time.",
+    "image": "assets/images/workout.png",
+    "githubUrl": "https://github.com/salah0012edd/Workout-tracker",
+    "liveDemoAvailable": false,
+    "liveDemoUrl": "###############",
+    "tags": [
+      "Web",
+      "Full-Stack"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "To-Do-app-w-js",
+    "description": "An interactive To-do, the difference between it and the first one is that one has a different design kkkk",
+    "image": "assets/images/to-js.png",
+    "githubUrl": "https://github.com/salah0012edd/To-do-app-w-js-",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://salah0012edd.github.io/To-do-app-w-js-/",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Music-Player-app",
+    "description": "",
+    "image": "assets/images/song.png",
+    "githubUrl": "https://github.com/salah0012edd/Music-Player",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://salah0012edd.github.io/Music-Player/",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Paint-app",
+    "description": "",
+    "image": "assets/images/paint.png",
+    "githubUrl": "https://github.com/salah0012edd/Paint_app_",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://salah0012edd.github.io/Paint_app_/",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "git-team-work-app",
+    "description": "a project where we work as a team to build a web app, each one should add an article about some topic, a Project where we experienced our knowledge of git",
+    "image": "assets/images/git-teamwork.png",
+    "githubUrl": "https://github.com/salah0012edd/git-teamwork",
+    "liveDemoAvailable": true,
+    "liveDemoUrl": "https://salah0012edd.github.io/git-teamwork/",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Hamster_Meme_Face_Detection_",
+    "description": "",
+    "image": "",
+    "githubUrl": "https://github.com/salah0012edd/Hamster_face_detection_",
+    "liveDemoAvailable": false,
+    "liveDemoUrl": "###############",
+    "tags": [
+      "Machine Learning"
+    ]
+  }
+]
